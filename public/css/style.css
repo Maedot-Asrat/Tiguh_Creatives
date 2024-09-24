@@ -214,6 +214,11 @@ a:focus,
   padding: 0;
   z-index: 1;
 }
+#home img{
+
+  background: cover;
+width: 100%;
+}
 #header {
  
   background: cover;
